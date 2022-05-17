@@ -1,4 +1,3 @@
-VIDEO PLAYER
 /* base_task.c is a basic real-time task skeleton offered by liblitmus which is the user space library of Litmus-RT.  Updated the base_task.c to run as a video processing application using ffmpeg and SDL libraries.
  
 References:  https://github.com/rambodrahmani/ffmpeg-video-player

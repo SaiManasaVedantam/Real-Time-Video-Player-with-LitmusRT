@@ -1,7 +1,5 @@
 /* 
  * Author:  Sai Manasa Vedantam
- * NET ID:  SXV200055
- * Course:  CS 6396 - Real-time Systems
 
  * This file is developed based on the skeleton of base_task.c which is a basic
  * real-time task skeleton offered by liblitmus, user space library of Litmus-RT.
